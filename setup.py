@@ -5,6 +5,7 @@ setuptools.setup(
     version="0.0.1",
     author="Moti Gadian",
     author_email="motkeg@gmail.com",
+    download_url = "https://github.com/motkeg/data-prep/archive/v0.0.1.tar.gz",
     description="A data preparetion package for deep learning",
     long_description="",
     long_description_content_type="text/markdown",
